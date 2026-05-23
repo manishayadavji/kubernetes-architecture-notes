@@ -5,11 +5,16 @@ Kubernetes is a container orchestration platform used to automate deployment, sc
 
 # Why Kubernetes?
 Kubernetes solves major Docker limitations:
- - Single host limitation       vs     Cluster-based Architecture
- - No auto healing                     Auto Healing
- - No auto scaling                     Auto Scaling
- - Limited enterprise support          Enterprise-level Support
+- Single host limitation
+- No auto healing
+- No auto scaling
+- Limited enterprise support
 
+Kubernetes provides:
+- Auto Healing
+- Auto Scaling
+- Cluster-based Architecture
+- Enterprise-level Support
 
 
 ## Kubernetes Architecture
